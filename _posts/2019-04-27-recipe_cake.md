@@ -22,15 +22,6 @@ categories: jekyll update
 2. Mix the saffron with the rose water
 3. Mix the flour, baking powder, and cardamom
 4. Add 2, 3, and oil to the mix, stir the mix
-5. Put in a mold and bake it for about 30 mins
+5. Put in a mold and bake it for about $$30$$ mins
   * option 1, oil and flour
   * option 2, tahina and sesame
-
-___
- {% raw %}
-  $$a^2 + b^2 = c^2\tfrac{1}{5}$$ --> note that all equations between these tags will not need escaping! 
-
- {% endraw %}
-
-$$-->\sfrac{1}{3}$$
-&#188;
