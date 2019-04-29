@@ -1,0 +1,27 @@
+<style>
+.output {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+p,
+dt {
+    font-weight: bold;
+}
+
+dl,
+dd {
+    font-size: .9rem;
+}
+
+dd {
+    margin-bottom: 1em;
+}
+</style>
+<DL>
+<DT>Basics</dt><dd>Tomatoes, onions, maji, tomatoe paste, jireesh, meat</dd>
+<DT>Spices for the meat</dt><dd>Clove, cardamom, black pepper, cinnamon, misteka</dd>
+<DT>Spices for the onions</dt><dd>Curry, tumeric, cumin, corriander, black lemon, sweet spice (aka 7
+* spices)</dd>
+<DT>Nuts</dt><dd>Cashews, almonds (sliced), pine nuts</dd>
+</DL>
+
