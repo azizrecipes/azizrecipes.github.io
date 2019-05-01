@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sambosa"
+title:  "Briwat (Sambosa)"
 date:   2019-04-27 15:04:23 +0300
 categories: jekyll update
 ---
